@@ -1,3 +1,31 @@
+
+# Rodada de cases
+## Case 1
+
+| Plugin | README | CASE
+| ------ | ------ | ------ |
+| Brainn 🇧🇷 (React + Typescript opcional)  | https://github.com/brainnco-exs/readme-frontend | loteria-case
+
+
+## Descrição
+
+- loteria-case
+-- Lista de Loterias
+-- Lista de resultados de cada loteria
+-- Temas de cada concurso
+-- Tudo é exibido na UI
+
+
+<img width="1430" alt="Captura de Tela 2022-01-24 às 15 05 56" src="https://user-images.githubusercontent.com/85270115/150839786-ab461493-e327-46cf-a37b-c90cdbe54a22.png">
+<img width="1290" alt="Captura de Tela 2022-01-24 às 15 06 30" src="https://user-images.githubusercontent.com/85270115/150839800-9cba52be-9cbb-4984-b1ce-d74cf2d19876.png">
+<img width="1428" alt="Captura de Tela 2022-01-24 às 15 06 05" src="https://user-images.githubusercontent.com/85270115/150839807-cee26376-d45b-4a75-9c54-45bc630aa5e9.png">
+<img width="1351" alt="Captura de Tela 2022-01-24 às 15 06 17" src="https://user-images.githubusercontent.com/85270115/150839811-9231ffd2-90c5-4b09-973f-dbdc13a1a8c0.png">
+
+
+Link para acessar a publicação do case 1, feita no Surge - https://case1-loteria-martinha.surge.sh/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

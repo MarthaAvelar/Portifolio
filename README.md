@@ -6,27 +6,14 @@ Durante os meus estudos
 
 
 # Rodada de cases
-## Lista de cases feitos
+## Cases Feitos 
 
 | Plugin | README | CASE
 | ------ | ------ | ------ |
-| Brainn 🇧🇷 (React + Typescript opcional)  | https://github.com/brainnco-exs/readme-frontend | loteria-case
-| iCasei 🇧🇷 (Qualquer Framework de Front))  | https://github.com/icasei/teste-front-end |youtube-case
 | Chama 🇳🇱 (React)  | https://github.com/chamatheapp/chama-frontend-assignment/ |github-case
 
 ## Descrição
 
-- loteria-case
--- Lista de Loterias
--- Lista de resultados de cada loteria
--- Temas de cada concurso
--- Tudo é exibido na UI
-
-- youtube-case
--- Lista de vídeos buscados
--- Informações sobre os vídeos buscados
--- Detalhes de um vídeo clicado
--- Tudo com exceção do detalhes de um vídeo é mostrado na UI, já os detalhes é exibido no console.
 
 - github-case
 -- Repositorio pesquisado

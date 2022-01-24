@@ -1,3 +1,27 @@
+# Rodada de cases
+## Case 3
+
+| Plugin | README | CASE
+| ------ | ------ | ------ |
+| iCasei 🇧🇷 (Qualquer Framework de Front))  | https://github.com/icasei/teste-front-end |youtube-case
+
+
+## Descrição
+
+- youtube-case
+-- Lista de vídeos buscados
+-- Informações sobre os vídeos buscados
+-- Detalhes de um vídeo clicado
+-- Tudo com exceção do detalhes de um vídeo é mostrado na UI, já os detalhes é exibido no console.
+
+
+<img width="1436" alt="Captura de Tela 2022-01-24 às 14 59 09" src="https://user-images.githubusercontent.com/85270115/150840561-ac9fe8f1-34d1-45ff-b20a-662ef38ba0c3.png">
+<img width="1435" alt="Captura de Tela 2022-01-24 às 14 59 22" src="https://user-images.githubusercontent.com/85270115/150840568-984b6367-85ac-47ee-9766-d30615bf92ae.png">
+<img width="1431" alt="Captura de Tela 2022-01-24 às 14 59 48" src="https://user-images.githubusercontent.com/85270115/150840581-711f79be-2844-4789-91e2-ba1610409ebc.png">
+
+Link para acessar a publicação do case 3, feita através do Surge - http://case-youtube-martinha.surge.sh/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

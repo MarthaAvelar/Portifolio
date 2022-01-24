@@ -1,3 +1,34 @@
+
+
+# Rodada de cases
+## Case 2
+
+| Plugin | README | CASE
+| ------ | ------ | ------ |
+| Chama 🇳🇱 (React)  | https://github.com/chamatheapp/chama-frontend-assignment/ |github-case
+
+## Descrição
+
+- github-case
+-- Repositorio pesquisado
+-- Informações sobre o repositório buscado
+-- Página de detalhes de pesquisas realizadas com a possibilidade de apagar as pesquisas, os dados são persistidos.
+-- Tudo é exbido visualmente na UI.
+
+<img width="1440" alt="Captura de Tela 2022-01-24 às 14 30 43" src="https://user-images.githubusercontent.com/85270115/150840335-3a176c44-9d69-4ab3-85b9-92e3bd05d016.png">
+<img width="721" alt="Captura de Tela 2022-01-24 às 14 31 27" src="https://user-images.githubusercontent.com/85270115/150840342-c918441e-2f89-449f-a2b7-81d564d7546a.png">
+
+
+
+Link para acessar a publicação do Case 2, feita através do Surge - https://github-case-martinha.surge.sh/
+
+OBS: O CASE 2 SE ENCONTRA COM ALGUNS BUGS, EM BREVE SERAM CORRIGIDOS! 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

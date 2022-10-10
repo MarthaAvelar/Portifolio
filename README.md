@@ -3,8 +3,7 @@
 
 ## Meu nome é Martha Critiny Avelar Gonçalves, sou desenvolvedora Front-end Web.
 
-|Este aqui é um repositório feito especialmente para expor meus projetos feitos 
-|Durante a minha jornada de aprendizado na Labenu, agora, dando continuidade na Rocketseat.
+|Este aqui é um repositório feito especialmente para expor meus projetos feitos durante minha jornada
 
 ## Lista de Links dos projetos
 

@@ -12,13 +12,13 @@
 
 ## Lista de Links dos projetos com integração
 
-|Pokedex - https://simple-pokedex.surge.sh (Adicione pokemons em sua pokedex)
-
 |Case 1 (Github) - https://github-case-martinha.surge.sh/ (Pesquise por contas)
 
 |Case 2 (YouTube) - http://case-youtube-martinha.surge.sh/ (Pesquise por vídeos)
 
-|Case 3 (Loteria ) - https://case1-loteria-martinha.surge.sh/ (Está integração não mostra os resultados reais do sorteio da caixa economica)
+|Case 3 (Pokedex) - https://simple-pokedex.surge.sh (Adicione pokemons em sua pokedex)
+
+|Case 4 (Loteria ) - https://case1-loteria-martinha.surge.sh/ (Está integração não mostra os resultados reais do sorteio da caixa economica)
 
 
 

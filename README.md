@@ -29,7 +29,7 @@
 |Whatslab (versão 1) - http://simple-whatslab.surge.sh/ 
 
 
-##Tools que utilizei ou utilizo no trabalho:
+## Tools que utilizei ou utilizo no trabalho:
 
 |Web Applications: Web site, Web app embed.
 
@@ -62,7 +62,7 @@
 
 |All in one organizer: Notion.
 
-##Contato:
+## Contato:
 |marthaavelar.developer@gmail.com
 
 Obrigado por visitar meu repositório!!

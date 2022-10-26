@@ -1,8 +1,6 @@
 
 # Martha-Avelar-Portifolio
 
-## Meu nome é Martha Avelar, sou desenvolvedora Front-end.
-
 |Este repositório se encontra desatualizado, porém como as aplicações estão funcionando,
 |Eu deixo aberta para que recrutadores consigam ver um pouco do ínicio da minha jornada.
 |Assim que possivel, irei atualizar este repositorio com aplicações mais recentes!
@@ -28,13 +26,6 @@
 |Whatslab (versão 1) - http://simple-whatslab.surge.sh/ 
 
 
-
-Obrigado por visitar meu repositório!!
-
-##Contato: marthaavelar.developer@gmail.com
-
-##Meu foco é em especialização de desenvolvimento front-end.
-
 ##Tools que utilizei ou utilizo no trabalho:
 
 |Web Applications: Web site, Web app embed.
@@ -53,3 +44,8 @@ Obrigado por visitar meu repositório!!
 |Agile System: Scrum, Kanban.
 |Vector Graphic Editor: Figma.
 |All in one organizer: Notion.
+
+##Contato:
+|marthaavelar.developer@gmail.com
+
+Obrigado por visitar meu repositório!!

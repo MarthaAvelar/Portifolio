@@ -12,7 +12,7 @@
 
 ## Lista de Links dos projetos com integração
 
-|Pokedex - https://simple-pokedex.surge.sh
+|Pokedex - https://simple-pokedex.surge.sh (Adicione pokemons em sua pokedex)
 
 |Case 1 (Github) - https://github-case-martinha.surge.sh/ (Pesquise por contas)
 

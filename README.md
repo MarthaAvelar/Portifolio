@@ -14,11 +14,11 @@
 
 |Pokedex - https://simple-pokedex.surge.sh
 
-|Case 1 (Loteria ) - https://case1-loteria-martinha.surge.sh/
+|Case 1 (Loteria ) - https://case1-loteria-martinha.surge.sh/ (Está integração não mostra os resultados reais do sorteio da caixa economica)
 
-|Case 2 (Github) - https://github-case-martinha.surge.sh/
+|Case 2 (Github) - https://github-case-martinha.surge.sh/ (Pesquise por contas)
 
-|Case 3 (YouTube) - http://case-youtube-martinha.surge.sh/
+|Case 3 (YouTube) - http://case-youtube-martinha.surge.sh/ (Pesquise por vídeos)
 
 
 
